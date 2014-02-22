@@ -31,3 +31,6 @@
 [submodule "sudo"]
 	path = sudo
 	url = git@github.com:opscode-cookbooks/sudo.git
+[submodule "git"]
+	path = git
+	url = git@github.com:opscode-cookbooks/git.git
