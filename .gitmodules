@@ -58,3 +58,6 @@
 [submodule "logrotate"]
 	path = logrotate
 	url = git@github.com:stevendanna/logrotate.git
+[submodule "pacman"]
+	path = pacman
+	url = git@github.com:jesseadams/pacman.git
