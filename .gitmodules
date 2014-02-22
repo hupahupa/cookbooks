@@ -46,3 +46,6 @@
 [submodule "xml"]
 	path = xml
 	url = git@github.com:opscode-cookbooks/xml.git
+[submodule "yum-epel"]
+	path = yum-epel
+	url = git@github.com:opscode-cookbooks/yum-epel.git
