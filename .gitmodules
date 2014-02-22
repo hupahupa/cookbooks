@@ -34,3 +34,6 @@
 [submodule "git"]
 	path = git
 	url = git@github.com:opscode-cookbooks/git.git
+[submodule "openssl"]
+	path = openssl
+	url = git@github.com:opscode-cookbooks/openssl.git
