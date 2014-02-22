@@ -22,3 +22,6 @@
 [submodule "postfix"]
 	path = postfix
 	url = git@github.com:opscode-cookbooks/postfix.git
+[submodule "apache2"]
+	path = apache2
+	url = git@github.com:opscode-cookbooks/apache2.git
