@@ -52,3 +52,6 @@
 [submodule "yum"]
 	path = yum
 	url = git@github.com:opscode-cookbooks/yum.git
+[submodule "iptables"]
+	path = iptables
+	url = git@github.com:opscode-cookbooks/iptables.git
