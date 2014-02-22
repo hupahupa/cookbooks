@@ -55,3 +55,6 @@
 [submodule "iptables"]
 	path = iptables
 	url = git@github.com:opscode-cookbooks/iptables.git
+[submodule "logrotate"]
+	path = logrotate
+	url = git@github.com:stevendanna/logrotate.git
