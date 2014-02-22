@@ -40,3 +40,6 @@
 [submodule "iis"]
 	path = iis
 	url = git@github.com:opscode-cookbooks/iis.git
+[submodule "windows"]
+	path = windows
+	url = git@github.com:opscode-cookbooks/windows.git
