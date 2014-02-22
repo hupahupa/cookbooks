@@ -1,0 +1,24 @@
+[submodule "wordpress"]
+	path = wordpress
+	url = git@github.com:opscode-cookbooks/wordpress.git
+[submodule "apt"]
+	path = apt
+	url = git@github.com:opscode-cookbooks/apt.git
+[submodule "build-essential"]
+	path = build-essential
+	url = git@github.com:opscode-cookbooks/build-essential.git
+[submodule "chef-server"]
+	path = chef-server
+	url = git@github.com:opscode-cookbooks/chef-server.git
+[submodule "mysql"]
+	path = mysql
+	url = git@github.com:opscode-cookbooks/mysql.git
+[submodule "nginx"]
+	path = nginx
+	url = git@github.com:opscode-cookbooks/nginx.git
+[submodule "php"]
+	path = php
+	url = git@github.com:opscode-cookbooks/php.git
+[submodule "postfix"]
+	path = postfix
+	url = git@github.com:opscode-cookbooks/postfix.git
