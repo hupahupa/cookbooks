@@ -61,3 +61,6 @@
 [submodule "pacman"]
 	path = pacman
 	url = git@github.com:jesseadams/pacman.git
+[submodule "python"]
+	path = python
+	url = git@github.com:poise/python.git
