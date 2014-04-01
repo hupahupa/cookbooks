@@ -64,3 +64,12 @@
 [submodule "python"]
 	path = python
 	url = git@github.com:poise/python.git
+[submodule "dmg"]
+	path = dmg
+	url = git@github.com:opscode-cookbooks/dmg.git
+[submodule "runit"]
+	path = runit
+	url = git@github.com:hw-cookbooks/runit.git
+[submodule "cookbook-php-fpm"]
+	path = cookbook-php-fpm
+	url = git@github.com:yevgenko/cookbook-php-fpm.git
