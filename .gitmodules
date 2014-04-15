@@ -73,3 +73,6 @@
 [submodule "cookbook-php-fpm"]
 	path = cookbook-php-fpm
 	url = git@github.com:yevgenko/cookbook-php-fpm.git
+[submodule "chef-postgresql"]
+	path = chef-postgresql
+	url = git@github.com:phlipper/chef-postgresql.git
