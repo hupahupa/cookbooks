@@ -82,3 +82,6 @@
 [submodule "ohai"]
 	path = ohai
 	url = git@github.com:opscode-cookbooks/ohai.git
+[submodule "postgresql"]
+	path = postgresql
+	url = git@github.com:phlipper/chef-postgresql.git
