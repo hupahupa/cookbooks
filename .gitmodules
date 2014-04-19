@@ -82,3 +82,6 @@
 [submodule "rsyslog"]
 	path = rsyslog
 	url = git@github.com:opscode-cookbooks/rsyslog.git
+[submodule "ohai"]
+	path = ohai
+	url = git@github.com:opscode-cookbooks/ohai.git
