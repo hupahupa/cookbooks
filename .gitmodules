@@ -85,3 +85,6 @@
 [submodule "postgresql"]
 	path = postgresql
 	url = git@github.com:phlipper/chef-postgresql.git
+[submodule "nvm"]
+	path = nvm
+	url = git@github.com:hipsnip-cookbooks/nvm.git
