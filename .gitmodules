@@ -88,3 +88,6 @@
 [submodule "nvm"]
 	path = nvm
 	url = git@github.com:hipsnip-cookbooks/nvm.git
+[submodule "user"]
+	path = user
+	url = https://github.com/fnichol/chef-user.git
