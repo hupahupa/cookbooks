@@ -1,93 +1,93 @@
 [submodule "wordpress"]
 	path = wordpress
-	url = git@github.com:opscode-cookbooks/wordpress.git
+	url = https://github.com/opscode-cookbooks/wordpress.git
 [submodule "apt"]
 	path = apt
-	url = git@github.com:opscode-cookbooks/apt.git
+	url = https://github.com/opscode-cookbooks/apt.git
 [submodule "build-essential"]
 	path = build-essential
-	url = git@github.com:opscode-cookbooks/build-essential.git
+	url = https://github.com/opscode-cookbooks/build-essential.git
 [submodule "chef-server"]
 	path = chef-server
-	url = git@github.com:opscode-cookbooks/chef-server.git
+	url = https://github.com/opscode-cookbooks/chef-server.git
 [submodule "mysql"]
 	path = mysql
-	url = git@github.com:opscode-cookbooks/mysql.git
+	url = https://github.com/opscode-cookbooks/mysql.git
 [submodule "nginx"]
 	path = nginx
-	url = git@github.com:opscode-cookbooks/nginx.git
+	url = https://github.com/opscode-cookbooks/nginx.git
 [submodule "php"]
 	path = php
-	url = git@github.com:opscode-cookbooks/php.git
+	url = https://github.com/opscode-cookbooks/php.git
 [submodule "postfix"]
 	path = postfix
-	url = git@github.com:opscode-cookbooks/postfix.git
+	url = https://github.com/opscode-cookbooks/postfix.git
 [submodule "apache2"]
 	path = apache2
-	url = git@github.com:opscode-cookbooks/apache2.git
+	url = https://github.com/opscode-cookbooks/apache2.git
 [submodule "chef_handler"]
 	path = chef_handler
-	url = git@github.com:opscode-cookbooks/chef_handler.git
+	url = https://github.com/opscode-cookbooks/chef_handler.git
 [submodule "sudo"]
 	path = sudo
-	url = git@github.com:opscode-cookbooks/sudo.git
+	url = https://github.com/opscode-cookbooks/sudo.git
 [submodule "git"]
 	path = git
-	url = git@github.com:opscode-cookbooks/git.git
+	url = https://github.com/opscode-cookbooks/git.git
 [submodule "openssl"]
 	path = openssl
-	url = git@github.com:opscode-cookbooks/openssl.git
+	url = https://github.com/opscode-cookbooks/openssl.git
 [submodule "iis"]
 	path = iis
-	url = git@github.com:opscode-cookbooks/iis.git
+	url = https://github.com/opscode-cookbooks/iis.git
 [submodule "windows"]
 	path = windows
-	url = git@github.com:opscode-cookbooks/windows.git
+	url = https://github.com/opscode-cookbooks/windows.git
 [submodule "xml"]
 	path = xml
-	url = git@github.com:opscode-cookbooks/xml.git
+	url = https://github.com/opscode-cookbooks/xml.git
 [submodule "yum-epel"]
 	path = yum-epel
-	url = git@github.com:opscode-cookbooks/yum-epel.git
+	url = https://github.com/opscode-cookbooks/yum-epel.git
 [submodule "yum"]
 	path = yum
-	url = git@github.com:opscode-cookbooks/yum.git
+	url = https://github.com/opscode-cookbooks/yum.git
 [submodule "iptables"]
 	path = iptables
-	url = git@github.com:opscode-cookbooks/iptables.git
+	url = https://github.com/opscode-cookbooks/iptables.git
 [submodule "logrotate"]
 	path = logrotate
-	url = git@github.com:stevendanna/logrotate.git
+	url = https://github.com/stevendanna/logrotate.git
 [submodule "pacman"]
 	path = pacman
-	url = git@github.com:jesseadams/pacman.git
+	url = https://github.com/jesseadams/pacman.git
 [submodule "python"]
 	path = python
-	url = git@github.com:poise/python.git
+	url = https://github.com/poise/python.git
 [submodule "dmg"]
 	path = dmg
-	url = git@github.com:opscode-cookbooks/dmg.git
+	url = https://github.com/opscode-cookbooks/dmg.git
 [submodule "runit"]
 	path = runit
-	url = git@github.com:hw-cookbooks/runit.git
+	url = https://github.com/hw-cookbooks/runit.git
 [submodule "cookbook-php-fpm"]
 	path = cookbook-php-fpm
-	url = git@github.com:yevgenko/cookbook-php-fpm.git
+	url = https://github.com/yevgenko/cookbook-php-fpm.git
 [submodule "bluepill"]
 	path = bluepill
-	url = git@github.com:opscode-cookbooks/bluepill.git
+	url = https://github.com/opscode-cookbooks/bluepill.git
 [submodule "rsyslog"]
 	path = rsyslog
-	url = git@github.com:opscode-cookbooks/rsyslog.git
+	url = https://github.com/opscode-cookbooks/rsyslog.git
 [submodule "ohai"]
 	path = ohai
-	url = git@github.com:opscode-cookbooks/ohai.git
+	url = https://github.com/opscode-cookbooks/ohai.git
 [submodule "postgresql"]
 	path = postgresql
-	url = git@github.com:phlipper/chef-postgresql.git
+	url = https://github.com/phlipper/chef-postgresql.git
 [submodule "nvm"]
 	path = nvm
-	url = git@github.com:hipsnip-cookbooks/nvm.git
+	url = https://github.com/hipsnip-cookbooks/nvm.git
 [submodule "user"]
 	path = user
 	url = https://github.com/fnichol/chef-user.git
