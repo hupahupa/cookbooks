@@ -96,4 +96,4 @@
 	url = https://github.com/reset/elixir-cookbook.git
 [submodule "erlang"]
 	path = erlang
-	url = git@github.com:opscode-cookbooks/erlang.git
+	url = https://github.com/opscode-cookbooks/erlang.git
