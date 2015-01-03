@@ -100,3 +100,6 @@
 [submodule "yum-erlang_solutions"]
 	path = yum-erlang_solutions
 	url = https://github.com/opscode-cookbooks/yum-erlang_solutions.git
+[submodule "github"]
+	path = github
+	url = https://github.com/reset/github-cookbook.git
