@@ -97,3 +97,6 @@
 [submodule "erlang"]
 	path = erlang
 	url = https://github.com/opscode-cookbooks/erlang.git
+[submodule "yum-erlang_solutions"]
+	path = yum-erlang_solutions
+	url = https://github.com/opscode-cookbooks/yum-erlang_solutions.git
