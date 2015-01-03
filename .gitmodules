@@ -103,3 +103,6 @@
 [submodule "github"]
 	path = github
 	url = https://github.com/reset/github-cookbook.git
+[submodule "libarchive"]
+	path = libarchive
+	url = https://github.com/reset/libarchive-cookbook.git
