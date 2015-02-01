@@ -106,3 +106,6 @@
 [submodule "libarchive"]
 	path = libarchive
 	url = https://github.com/reset/libarchive-cookbook.git
+[submodule "redisio"]
+	path = redisio
+	url = https://github.com/brianbianco/redisio.git
