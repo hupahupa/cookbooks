@@ -109,3 +109,6 @@
 [submodule "redisio"]
 	path = redisio
 	url = https://github.com/brianbianco/redisio.git
+[submodule "ulimit"]
+	path = ulimit
+	url = https://github.com/bmhatfield/chef-ulimit.git
