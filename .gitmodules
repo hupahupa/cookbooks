@@ -112,3 +112,6 @@
 [submodule "ulimit"]
 	path = ulimit
 	url = https://github.com/bmhatfield/chef-ulimit.git
+[submodule "logwatch"]
+	path = logwatch
+	url = https://github.com/opscode-cookbooks/logwatch.git
