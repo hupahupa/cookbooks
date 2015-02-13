@@ -115,3 +115,6 @@
 [submodule "logwatch"]
 	path = logwatch
 	url = https://github.com/opscode-cookbooks/logwatch.git
+[submodule "nodejs"]
+	path = nodejs
+	url = https://github.com/redguide/nodejs.git
