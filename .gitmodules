@@ -118,3 +118,6 @@
 [submodule "nodejs"]
 	path = nodejs
 	url = https://github.com/redguide/nodejs.git
+[submodule "ark"]
+	path = ark
+	url = https://github.com/burtlo/ark.git
