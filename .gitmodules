@@ -71,7 +71,7 @@
 	path = runit
 	url = https://github.com/hw-cookbooks/runit.git
 [submodule "cookbook-php-fpm"]
-	path = cookbook-php-fpm
+	path = php-fpm
 	url = https://github.com/yevgenko/cookbook-php-fpm.git
 [submodule "bluepill"]
 	path = bluepill
