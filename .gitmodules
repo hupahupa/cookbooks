@@ -121,3 +121,6 @@
 [submodule "ark"]
 	path = ark
 	url = https://github.com/burtlo/ark.git
+[submodule "nfs"]
+	path = nfs
+	url = https://github.com/atomic-penguin/cookbook-nfs.git
