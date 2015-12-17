@@ -93,7 +93,7 @@
 	url = https://github.com/fnichol/chef-user.git
 [submodule "elixir"]
 	path = elixir
-	url = https://github.com/reset/elixir-cookbook.git
+	url = https://github.com/hupahupa/elixir-cookbook.git
 [submodule "erlang"]
 	path = erlang
 	url = https://github.com/opscode-cookbooks/erlang.git
