@@ -136,3 +136,6 @@
 [submodule "elasticsearch"]
 	path = elasticsearch
 	url = https://github.com/hupahupa/cookbook-elasticsearch.git
+[submodule "chef-sugar"]
+	path = chef-sugar
+	url = https://github.com/sethvargo/chef-sugar.git
