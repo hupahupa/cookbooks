@@ -133,3 +133,6 @@
 [submodule "go"]
 	path = go
 	url = https://github.com/NOX73/chef-golang.git
+[submodule "elasticsearch"]
+	path = elasticsearch
+	url = https://github.com/hupahupa/cookbook-elasticsearch.git
