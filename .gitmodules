@@ -131,7 +131,7 @@
 	path = database
 	url = https://github.com/opscode-cookbooks/database.git
 [submodule "go"]
-	path = go
+	path = golang
 	url = https://github.com/NOX73/chef-golang.git
 [submodule "elasticsearch"]
 	path = elasticsearch
