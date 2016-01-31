@@ -139,3 +139,6 @@
 [submodule "chef-sugar"]
 	path = chef-sugar
 	url = https://github.com/sethvargo/chef-sugar.git
+[submodule "java"]
+	path = java
+	url = https://github.com/agileorbit-cookbooks/java.git
